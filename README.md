@@ -8,7 +8,7 @@
 
 ## FinalProject2
 - You need to choose one game from [Connect X](https://www.kaggle.com/c/connectx), [Santa](https://www.kaggle.com/competitions/santa-2020), [Kore](https://www.kaggle.com/competitions/kore-2022) and [Lux AI](https://www.kaggle.com/c/lux-ai-2021) to implement a RL(Reinforcement Learning) agent.
-- The RL method should be based on value/policy iteration in this phase.
+- The RL should be based on value/policy iteration in this phase.
 - Guides and tutorials can be found [here](https://github.com/Dasher-mango/SDS-2023AI-FinalProjects/tree/main/FinalProject2/tutorial). 
 
 ## FinalProject3
