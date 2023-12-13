@@ -1,5 +1,5 @@
 # SDS-2023AI-FinalProjects
-> This is a repository containing all codes/reports/images of the three-phase FinalProject in Artifical Intelligence(DATA130008.01). All the agents in this project is submitted and evaluated via [Kaggle](https://www.kaggle.com/).
+> This is a repository containing all codes/reports/images of the three-phase FinalProject in Artifical Intelligence(DATA130008.01). All the agents in this project are submitted and evaluated via [Kaggle](https://www.kaggle.com/).
 
 ## FinalProject1
 - Adapted from the [Connect X](https://www.kaggle.com/c/connectx) competition in Kaggle.
