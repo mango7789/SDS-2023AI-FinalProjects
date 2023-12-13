@@ -1,0 +1,16 @@
+win=[8 5 7 9];
+tie=[1 1 0 0];
+loss=[1 4 3 1];
+x=[1 2 3 4];
+hold on;
+plot(x,win,"r-o",LineWidth=1.5);
+plot(x,tie,"b-x",LineWidth=1.5);
+plot(x,loss,"g-^",LineWidth=1.5);
+legend("win","tie","loss");
+title("Scores v.s. Visited times");
+xlim([0.7 4.3]);
+ylim([-0.2 10]);
+xlabel("Version");
+ylabel("Number");
+set(gca,'XTickLabel',{'1','','2','','3','','4'});
+hold off;

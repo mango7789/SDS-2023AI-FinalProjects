@@ -1,0 +1,9 @@
+.mypy_cache
+
+agent/game.log
+agent/__pycache__
+
+
+.env
+
+docs/.obsidian

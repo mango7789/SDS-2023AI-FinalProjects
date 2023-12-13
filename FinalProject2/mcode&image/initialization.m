@@ -1,0 +1,12 @@
+clear; clc;
+set(gca,'FontName','Times New Rome','FontSize', 18);
+a = [73, 96, 90, 72, 11, 87, 18, 62, 77, 25, 0, 76, 93, 84, 82, 10, 40, 61, 71, 26, 11, 40, 84, 11, 85, 5, 38, 37, 92, 38, 40, 12, 25, 16, 75, 59, 83, 86, 13, 78, 88, 91, 61, 42, 90, 91, 78, 30, 37, 13, 79, 69, 5, 44, 23, 67, 92, 78, 74, 99, 89, 30, 92, 17, 48, 35, 43, 57, 74, 33, 53, 25, 60, 23, 77, 19, 16, 70, 30, 8, 34, 13, 88, 12, 1, 24, 42, 92, 4, 99, 20, 18, 61, 98, 30, 20, 80, 97, 42, 18];
+a = sort(a) / 100;
+index = linspace(0, 1 ,100);
+hold on;
+plot(index, a, "o");
+liney = index;
+plot(index, liney, "-", LineWidth=1.5);
+xlabel("percentile");ylabel("threshold");
+legend("threshold points", "uniform(0,1)");
+hold off;
