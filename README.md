@@ -19,6 +19,9 @@
 ## Kaggle Results
 We choose [Santa](https://www.kaggle.com/competitions/santa-2020) in phase 2. The best agents of our team in [Connect X](https://www.kaggle.com/c/connectx) and  [Santa](https://www.kaggle.com/competitions/santa-2020) all rank second in the leaderboard. Below are the tables display the Kaggle scores of our submissions.
 
+<div align='center'>
+
 |Connext X (rank 2/26)|Santa (rank 2/15)|
 |--|--|
 |<table> <tr><th>Submissions</th><th>Scores</th></tr><tr><td>agent</td><td>550.4</td></tr><tr><td>agent2</td><td>887.8</td></tr><tr><td>agent4</td><td>1894.9</td></tr><tr><td>agent5</td><td>2327.7</td></tr> </table>| <table> <tr><th>Submissions</th><th>Scores</th></tr><tr><td>agent-test</td><td>585.8</td></tr><tr><td>agent-test-2</td><td>1066.1</td></tr><tr><td>agent-1</td><td>2661.4</td></tr><tr><td>agent-5</td><td>1453.6</td></tr> </table>|
+</div>
