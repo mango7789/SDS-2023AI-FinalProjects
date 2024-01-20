@@ -1,2 +1,0 @@
-numpy==1.22.3
-kaggle_environments==1.9.7
