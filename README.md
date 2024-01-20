@@ -4,12 +4,10 @@
 ## FinalProject1
 - Adapted from the [Connect X](https://www.kaggle.com/c/connectx) competition in Kaggle.
 - You need to implement a MCTS(Monte Carlo Tree Search) agent for the game.
-- Guides and tutorials can be found [here](https://github.com/Dasher-mango/SDS-2023AI-FinalProjects/tree/main/FinalProject1/guide). 
 
 ## FinalProject2
 - You need to choose one game from [Connect X](https://www.kaggle.com/c/connectx), [Santa](https://www.kaggle.com/competitions/santa-2020), [Kore](https://www.kaggle.com/competitions/kore-2022) and [Lux AI](https://www.kaggle.com/c/lux-ai-2021) to implement a RL(Reinforcement Learning) agent.
 - The RL should be based on value/policy iteration in this phase.
-- Guides and tutorials can be found [here](https://github.com/Dasher-mango/SDS-2023AI-FinalProjects/tree/main/FinalProject2/tutorial). 
 
 ## FinalProject3
 - You need to make a poster and give a presentation in no more than 2 minutes to clarify your agent implemented in FinalProject2.
